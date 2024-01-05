@@ -13,6 +13,7 @@
 		0D1600C62B47F6A400DD0FDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D1600C42B47F6A400DD0FDA /* Main.storyboard */; };
 		0D1600C82B47F6A600DD0FDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D1600C72B47F6A600DD0FDA /* Assets.xcassets */; };
 		0D1600CB2B47F6A600DD0FDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D1600C92B47F6A600DD0FDA /* LaunchScreen.storyboard */; };
+		0D1600D92B4860F400DD0FDA /* 乾杯.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D1600D82B4860F400DD0FDA /* 乾杯.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0D1600C72B47F6A600DD0FDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D1600CA2B47F6A600DD0FDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D1600CC2B47F6A600DD0FDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D1600D82B4860F400DD0FDA /* 乾杯.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "乾杯.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0D1600C72B47F6A600DD0FDA /* Assets.xcassets */,
 				0D1600C92B47F6A600DD0FDA /* LaunchScreen.storyboard */,
 				0D1600CC2B47F6A600DD0FDA /* Info.plist */,
+				0D1600D82B4860F400DD0FDA /* 乾杯.mp3 */,
 			);
 			path = cheersClicker;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D1600CB2B47F6A600DD0FDA /* LaunchScreen.storyboard in Resources */,
+				0D1600D92B4860F400DD0FDA /* 乾杯.mp3 in Resources */,
 				0D1600C82B47F6A600DD0FDA /* Assets.xcassets in Resources */,
 				0D1600C62B47F6A400DD0FDA /* Main.storyboard in Resources */,
 			);
@@ -292,6 +296,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUY7Q7WR79;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = cheersClicker/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -319,6 +324,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUY7Q7WR79;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = cheersClicker/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
